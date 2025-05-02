@@ -12,7 +12,7 @@
 ## Improve Quality of Life:
 - **Auto Rename Tag**
 - Document This
-- Error Lens
+- **Error Lens**
 
 ## Themes and Icons:
 - FiraCode font - Professional Font for Developers
