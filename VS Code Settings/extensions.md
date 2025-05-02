@@ -1,5 +1,3 @@
-* - The Most Important Extensions
-
 ## Web Development:
 - **HTML Snippets
 - **ES7+ React/Redux/React-Native snippets
